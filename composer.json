@@ -1,0 +1,13 @@
+{
+  "name": "mirahost/network-tool-website-ip",
+  "description": "PHP Website IP Lookup Tool",
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "4.0.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Mirahost\\NetworkTools\\": "src"
+    }
+  }
+}
