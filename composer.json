@@ -1,6 +1,6 @@
 {
-  "name": "mirahost/network-tool-website-ip",
-  "description": "PHP Website IP Lookup Tool",
+  "name": "mirahost/network-tool-website-host",
+  "description": "PHP Website Host Lookup Tool",
   "require": {},
   "require-dev": {
     "phpunit/phpunit": "4.0.*"
