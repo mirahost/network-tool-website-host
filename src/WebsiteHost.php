@@ -124,5 +124,7 @@ class WebsiteHost
             $result .= "Comment: ". $ispComment . "\n";
         }
 
+        return $result;
+
     }
 }
